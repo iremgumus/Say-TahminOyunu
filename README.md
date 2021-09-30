@@ -1,2 +1,2 @@
 # Say-TahminOyunu
-Bu bir eğitim için yeterlilik  için deneme projesidir.
+Bu bir eğitim için yeterlilik  deneme projesidir.
