@@ -4,3 +4,7 @@ Bu bir eğitim için yeterlilik  deneme projesidir.
 Unutmayın 7 hakkınız vardır.
 Sayınınızı bulmanız için daha küçük bir sayı yada daha büyük bir sayı giriniz şeklinde sayınızı bulmaya yardımcı olacağız.
 iyi şanslar hadi saynızı bulalım.
+asdfg
+
+
+
